@@ -6,5 +6,5 @@ A broken line view for Real-time
 -------------
 
 
-![](https://github.com/YuePr/BLChartView/blob/master/images/003.gif)
+![](https://github.com/YuePr/BLd-line/blob/master/007bl.gif?raw=true)
 
