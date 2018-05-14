@@ -2,8 +2,8 @@
 //  BrokenLineAnimation.h
 //  Reha Mstim
 //
-//  Created by longest on 2016/12/15.
-//  Copyright © 2016年 longest.Guangz. All rights reserved.
+//  Created by yuepr on 2016/12/15.
+//  Copyright © 2016年 yuepr.Guangz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
